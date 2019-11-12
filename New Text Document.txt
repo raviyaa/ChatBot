@@ -1,0 +1,4 @@
+source link : https://medium.com/crowdbotics/how-to-create-your-very-own-facebook-messenger-bot-with-dialogflow-and-node-js-in-just-one-day-f5f2f5792be5
+facebook token : EAAKZBsPKQcPoBAMNUvbka8tk7QgMzIdfNoXfHy8cLHQPVcvQtMUMBAIWNZBmhTF9jTAyo3db3UjGEFacbwZBsWkoIi2BUvVIl4ENo9Gm0Ciw4z8uGtuU6GXayc5NXSMzlJhxKoE2CnHkPKGA9ZCHLLPoQD1Y8EgySKSbm6tSiQZDZD
+facebook development dashboard : https://developers.facebook.com/apps/772617146495226/roles/roles/
+dialogflow dashboard : https://dialogflow.cloud.google.com/#/editAgent/52b34fa0-cdf8-4052-8e2f-d00e5cdea10c/
